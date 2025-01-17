@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "throw-error-on-load": "^1.0.4",
     "next": "canary",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
